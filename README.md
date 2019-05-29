@@ -4,4 +4,6 @@ The United States Forest Service has compiled a [national database of forest fir
 
 [Nearly 85% of wildfires](https://www.nps.gov/articles/wildfire-causes-and-evaluation.htm) are caused by humans. Understanding and predicting the causes of wildfires can assist investigators bring arsonists to justice, inform the public of the actual causes of wildfires, and be the catalyst for abatement strategies.
 
-We will be predicting `STAT_CAUSE_CODE`, which is an encoded feature that describes the cause of each wild fire, for the mountain west states.
+This repo contains:
+1) A [notebook](https://github.com/mkfrancsis/forest_fire_cause_prediction/blob/master/ForestFires_Final.ipynb) containing all the data analysis and models
+2) A [pdf version of a presentation](https://github.com/mkfrancsis/forest_fire_cause_prediction/blob/master/ForestFirePrediction_Final.pdf) I gave in support of this work to fellow Thinkful students
