@@ -4,4 +4,4 @@ The United States Forest Service has compiled a [national database of forest fir
 
 [Nearly 85% of wildfires](https://www.nps.gov/articles/wildfire-causes-and-evaluation.htm) are caused by humans. Understanding and predicting the causes of wildfires can assist investigators bring arsonists to justice, inform the public of the actual causes of wildfires, and be the catalyst for abatement strategies.
 
-This forest fire database is hosted on [Kaggle](https://www.kaggle.com/rtatman/188-million-us-wildfires).  We will be predicting `STAT_CAUSE_CODE`, which is an encoded feature that describes the cause of each wild fire, for the mountain west states.
+We will be predicting `STAT_CAUSE_CODE`, which is an encoded feature that describes the cause of each wild fire, for the mountain west states.
